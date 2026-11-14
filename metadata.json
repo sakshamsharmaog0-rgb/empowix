@@ -1,0 +1,6 @@
+{
+  "name": "Empowix",
+  "description": "Empowix - Premium E-Commerce & Curated Lifestyle Essentials storefront landing page",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
